@@ -1,0 +1,24 @@
+{
+  "name": "sfdcoauthexample",
+  "version": "1.0.0",
+  "description": "sdfcoauthexample",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "salesforce-oauth2": "^0.2.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon --watch directory-to-watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberjus/sdfcoauthexample.git"
+  },
+  "author": "cyberjus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyberjus/sdfcoauthexample/issues"
+  },
+  "homepage": "https://github.com/cyberjus/sdfcoauthexample#readme"
+}
